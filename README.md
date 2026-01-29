@@ -1,8 +1,9 @@
 # Your Project's Title...
 Superannuation - Super Accounts, Funds & Products | MLC Australia
 ## Environments
-- Preview: https://main--mlc-eds-main--capgemini-eds.aem.page/
-- Live: https://main--mlc-eds-main--capgemini-eds.aem.live/
+- Preview: https://main--newsroom--capgemini-eds-org.aem.page/
+
+- Live: https://main--newsroom--capgemini-eds-org.aem.live/
 
 
 ## Installation
